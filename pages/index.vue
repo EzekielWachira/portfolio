@@ -9,7 +9,7 @@
       <div class="h-1/2 bg-gray-700 flex-auto w-full justify-center items-cente text-center space-y-2 py-5">
         <h1 class="text-white text-4xl">Ezekiel Wachira</h1>
         <div class="text-2xl text-green-300">Software Engineer</div>
-        <div class="text-xl text-green-200">Android (Java, Kotlin) | Full Stack | Laravel, Vue Js, Typescript</div>
+        <div class="text-xl text-green-200">Android (Java, Kotlin) | Full Stack | Laravel, Vue Js, Nuxt Js Typescript</div>
         <div class="flex flex-row justify-center space-x-2">
           <nuxt-link to="/" tag="a" class="text-white" target="blank">
             <span class="mdi mdi-facebook text-3xl"></span>
