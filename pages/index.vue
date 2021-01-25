@@ -3,7 +3,7 @@
     <div class="w-full h-full item-center flex flex-col items-center  relative">
       <div class="w-full h-64 bg-green-300 flex items-center justify-center ">
         <div class="h-32 w-32 absolute bg-blue-200 rounded-full shadow-2xl mx-auto">
-          <img src="/ezzy.jpg" alt="" class="rounded-full h-32 w-32"/>
+          <img src="https://github.com/EzekielWachira/portfolio/blob/master/ezzy.JPG" alt="" class="rounded-full h-32 w-32"/>
         </div>
       </div>
       <div class="h-1/2 bg-gray-700 flex-auto w-full justify-center items-cente text-center space-y-2 py-5">
