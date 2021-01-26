@@ -1,32 +1,38 @@
 <template>
- <div class="flex flex-row items-center h-full">
+  <div class="flex flex-row items-center h-full">
     <div class="w-full h-full item-center flex flex-col items-center  relative">
       <div class="w-full h-64 bg-green-300 flex items-center justify-center ">
         <div class="h-32 w-32 absolute bg-blue-200 rounded-full shadow-2xl mx-auto">
-          <img src="https://github.com/EzekielWachira/portfolio/blob/master/ezzy.JPG" alt="" class="rounded-full h-32 w-32"/>
+          <img src="/ezzy.JPG" alt="" class="rounded-full h-32 w-32">
         </div>
       </div>
       <div class="h-1/2 bg-gray-700 flex-auto w-full justify-center items-cente text-center space-y-2 py-5">
-        <h1 class="text-white text-4xl">Ezekiel Wachira</h1>
-        <div class="text-2xl text-green-300">Software Engineer</div>
-        <div class="text-xl text-green-200">Android (Java, Kotlin) | Full Stack | Laravel, Vue Js, Nuxt Js Typescript</div>
+        <h1 class="text-white text-4xl">
+          Ezekiel Wachira
+        </h1>
+        <div class="text-2xl text-green-300">
+          Software Engineer
+        </div>
+        <div class="text-xl text-green-200">
+          Android (Java, Kotlin) | Full Stack | Laravel, Vue Js, Nuxt Js Typescript
+        </div>
         <div class="flex flex-row justify-center space-x-2">
           <nuxt-link to="/" tag="a" class="text-white" target="blank">
-            <span class="mdi mdi-facebook text-3xl"></span>
+            <span class="mdi mdi-facebook text-3xl" />
           </nuxt-link>
           <nuxt-link to="/" tag="a" class="text-white" target="blank">
-            <span class="mdi mdi-twitter text-3xl"></span>
+            <span class="mdi mdi-twitter text-3xl" />
           </nuxt-link>
           <nuxt-link to="/" tag="a" class="text-white" target="blank">
-            <span class="mdi mdi-linkedin text-3xl"></span>
+            <span class="mdi mdi-linkedin text-3xl" />
           </nuxt-link>
           <nuxt-link to="/" tag="a" class="text-white" target="blank">
-            <span class="mdi mdi-git text-3xl"></span>
+            <span class="mdi mdi-git text-3xl" />
           </nuxt-link>
         </div>
       </div>
     </div>
- </div>
+  </div>
 </template>
 
 <script lang="ts">
