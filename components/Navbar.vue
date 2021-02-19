@@ -5,10 +5,10 @@
         <span class="font-bold text-xl">DroidDevExpress</span>
       </nuxt-link>
     </div>
-    <div class="w-full block flex-grow sm:flex sm:items-center sm:w-auto">
-      <div class="text-sm sm:flex-grow">
+    <div class="w-full bg-gray-900 block flex-grow sm:flex sm:items-center sm:w-auto">
+      <div class="text-sm bg-gray-900 sm:flex-grow">
         <nuxt-link to="/portfolio" class="block mt-4 sm:inline-block sm:mt-0 text-teal-100 hover:text-white mr-4">
-          Portfolio
+          Portfolio00
           <span class="mdi mdi-briefcase-outline" />
         </nuxt-link>
         <nuxt-link to="/blog" class="block mt-4 sm:inline-block sm:mt-0 text-teal-100 hover:text-white mr-4">

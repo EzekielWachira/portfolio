@@ -1,54 +1,54 @@
 <template>
-  <div class="bg-green-200">
+  <div class="bg-gray-600">
     <div class="container mx-auto px-6">
       <div class="h-screen flex flex-row space-x-2 py-5 ">
         <div class="h-full w-20 items-center flex flex-col flex-column justify-center flex-none">
           <div class="shadow-lg w-full rounded">
             <nuxt-link to="/" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-home text-3xl" />
+              <div class="w-full hover:bg-gray-800  bg-gray-900 text-white border-1 border-gray-300 flex flex-col items-center">
+                <span class="mdi mdi-home text-3xl text-green-400" />
                 <span>Home</span>
               </div>
             </nuxt-link>
             <nuxt-link to="/about" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-t border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-information text-3xl" />
+              <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
+                <span class="mdi mdi-information text-3xl text-yellow-400" />
                 <span>About</span>
               </div>
             </nuxt-link>
             <nuxt-link to="/" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-t border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-briefcase-outline text-3xl" />
+              <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
+                <span class="mdi text-blue-300 mdi-briefcase-outline text-3xl" />
                 <span>Skills</span>
               </div>
             </nuxt-link>
             <nuxt-link to="/portfolio" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-t border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-map-legend text-3xl" />
+              <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
+                <span class="mdi text-red-700 mdi-map-legend text-3xl" />
                 <span>Portfolio</span>
               </div>
             </nuxt-link>
             <nuxt-link to="/" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-t border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-post-outline text-3xl" />
+              <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
+                <span class="mdi text-purple-400 mdi-post-outline text-3xl" />
                 <span>Blog</span>
               </div>
             </nuxt-link>
             <nuxt-link to="/" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-t border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-file-document-outline text-3xl" />
+              <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
+                <span class="mdi text-pink-400 mdi-file-document-outline text-3xl" />
                 <span>Resume</span>
               </div>
             </nuxt-link>
             <nuxt-link to="/contact" class="w-full flex flex-col items-center shadow-lg">
-              <div class="w-full bg-white border-t border-1 border-gray-300 flex flex-col items-center">
-                <span class="mdi mdi-chat-processing-outline text-3xl" />
+              <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
+                <span class="mdi text-orange-500 mdi-chat-processing-outline text-3xl" />
                 <span>Contact</span>
               </div>
             </nuxt-link>
           </div>
         </div>
-        <div class="flex-auto bg-white rounded shadow-2xl">
+        <div class="flex-auto bg-white shadow-2xl">
           <Nuxt />
         </div>
       </div>
