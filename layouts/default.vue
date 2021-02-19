@@ -16,7 +16,7 @@
                 <span>About</span>
               </div>
             </nuxt-link>
-            <nuxt-link to="/" class="w-full flex flex-col items-center shadow-lg">
+            <nuxt-link to="/skills" class="w-full flex flex-col items-center shadow-lg">
               <div class="w-full bg-gray-900 hover:bg-gray-800 text-white border-t border-b-1 border-gray-700 flex flex-col items-center">
                 <span class="mdi text-blue-300 mdi-briefcase-outline text-3xl" />
                 <span>Skills</span>
@@ -48,7 +48,7 @@
             </nuxt-link>
           </div>
         </div>
-        <div class="flex-auto bg-white shadow-2xl">
+        <div class="flex-auto shadow-2xl">
           <Nuxt />
         </div>
       </div>

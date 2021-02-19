@@ -1,5 +1,5 @@
 <template>
-  <div class="container h-full w-full bg-gray-900 justify-center flex p-10">
+  <div class="container h-full w-full bg-gray-900 justify-center flex p-10 relative">
     <div class="w-10/12 h-auto  rounded overflow-y-auto main-card pr-2 main">
       <div class="text-white flex flex-col">
         <span class="font-bold border- border-l-8 pl-2 border-green-400 text-xl">EZEKIEL WACHIRA</span>
@@ -52,6 +52,18 @@
         </div>
       </div>
     </div>
+    <!--<nuxt-link to="/" class="absolute bottom-0 left-0 rounded">
+      <button class="mb-2 ml-3 px-2 py-1 border-2 text-white border-green-400 rounded flex flex-row space-x-2">
+        <span class="mdi mdi-chevron-double-left"></span>
+        <span class="my-auto">Hello</span>
+      </button>
+    </nuxt-link>
+    <nuxt-link to="/" class="absolute bottom-0 right-0 rounded">
+      <button class="mb-2 mr-3 px-2 py-1 border-2 text-white border-green-400 rounded flex flex-row space-x-2">
+        <span class="mdi mdi-chevron-double-left"></span>
+        <span class="my-auto">Hello</span>
+      </button>
+    </nuxt-link>-->
   </div>
 </template>
 
@@ -85,10 +97,10 @@ export default Vue.extend({
 }
 
 @media screen and (max-width: 500px) {
-  .testimonias{
+  .testimonies{
     display: block;
   }
-  .testimonial{
+  .testimonials{
     width: auto;
   }
   .container{
