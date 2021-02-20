@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-row items-center h-full bg-gray-900">
+  <div class="flex flex-row items-center h-full bg-gray-900 relative">
     <div class="w-full h-full item-center flex flex-col items-center pt-5">
       <div class="h-1/2 bg-gray-900 h-full w-full justify-center items-center text-center space-y-2 py-5">
         <div class="h-64 flex items-center justify-center ">
@@ -28,6 +28,9 @@
           </nuxt-link>
           <nuxt-link to="/" tag="a" class="text-white py-2 px-2 rounded bg-orange-500" target="blank">
             <span class="mdi mdi-git text-3xl" />
+          </nuxt-link>
+          <nuxt-link to="/" tag="a" class="text-white py-2 px-2 rounded bg-red-600" target="blank">
+            <span class="mdi mdi-email-outline text-3xl" />
           </nuxt-link>
         </div>
         <div class="flex justify-center space-x-2 mt-5 p-3">

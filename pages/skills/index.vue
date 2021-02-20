@@ -15,13 +15,13 @@
             <ul class="mt-2 list-none">
               <li class="">
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-checkbox-marked-circle-outline text-green-400"></span>
+                  <span class="mdi mdi-android text-green-400"></span>
                   <span class="text-md">Android SDK</span>
                 </div>
               </li>
               <li class="">
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-checkbox-marked-circle-outline text-green-400"></span>
+                  <span class="mdi mdi-language-java text-green-400"></span>
                   <span class="text-md">Java</span>
                 </div>
               </li>
@@ -39,7 +39,7 @@
               </li>
               <li class="">
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-checkbox-marked-circle-outline text-green-400"></span>
+                  <span class="mdi mdi-firebase text-green-400"></span>
                   <span class="text-md">Firebase</span>
                 </div>
               </li>
@@ -87,7 +87,7 @@
               </li>
             </ul>
             <div class="mt-4">
-              <div class="flex flex-row space-x-2 border-l-8 border-pink-600 py-2 px-3">
+              <div class="flex flex-row space-x-2 border-l-8 border-blue-600 py-2 px-3">
                 <span class="mdi mdi-web text-green-400"></span>
                 <span>WEB</span>
               </div>
@@ -95,49 +95,49 @@
             <ul class="mt-2 list-none">
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-laravel text-lg text-orange-700"></span>
                   <span class="text-md">Laravel</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-api text-lg text-pink-700"></span>
                   <span class="text-md">API Development</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-vuejs text-lg text-green-400"></span>
                   <span class="text-md">Vue JS</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-nuxt text-lg  text-green-400"></span>
                   <span class="text-md">Nuxt JS</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-language-typescript text-lg text-blue-500"></span>
                   <span class="text-md">Typescript</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-language-javascript text-lg text-yellow-400"></span>
                   <span class="text-md">Javascript</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-language-html5 text-lg text-red-500"></span>
                   <span class="text-md">HTML</span>
                 </div>
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-language-css3 text-lg text-blue-500"></span>
                   <span class="text-md">CSS</span>
                 </div>
               </li>
@@ -149,7 +149,7 @@
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-vuetify text-lg text-blue-300"></span>
                   <span class="text-md">Vuetify</span>
                 </div>
               </li>
@@ -161,8 +161,28 @@
               </li>
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-code-tags text-lg text-pink-700"></span>
+                  <span class="mdi mdi-bootstrap text-purple-700"></span>
                   <span class="text-md">Bootstrap</span>
+                </div>
+              </li>
+            </ul>
+            <div class="mt-4">
+              <div class="flex flex-row space-x-2 border-l-8 border-orange-600 py-2 px-3">
+                <span class="mdi mdi-database text-green-400"></span>
+                <span>DATABASE</span>
+              </div>
+            </div>
+            <ul class="mt-2 list-none">
+              <li>
+                <div class="flex flex-row space-x-2">
+                  <span class="mdi mdi-database-check text-lg text-orange-600"></span>
+                  <span class="text-md">MYSQL</span>
+                </div>
+              </li>
+              <li>
+                <div class="flex flex-row space-x-2">
+                  <span class="mdi mdi-database-check text-lg text-orange-600"></span>
+                  <span class="text-md">Postgres</span>
                 </div>
               </li>
             </ul>
@@ -172,7 +192,7 @@
             <ul class="mt-2 list-none">
               <li>
                 <div class="flex flex-row space-x-2">
-                  <span class="mdi mdi-check text-lg text-blue-400"></span>
+                  <span class="mdi mdi-web text-lg text-blue-400"></span>
                   <span class="text-md">Communication</span>
                 </div>
               </li>
@@ -210,6 +230,15 @@
                 <div class="flex flex-row space-x-2">
                   <span class="mdi mdi-check text-lg text-blue-400"></span>
                   <span class="text-md">Collaboration</span>
+                </div>
+              </li>
+            </ul>
+            <span class="font-bold mt-5 border-l-4 pl-2 text-gray-400 italic border-orange-500 text-MD">LANGUAGE</span>
+            <ul class="mt-2 list-none">
+              <li>
+                <div class="flex flex-row space-x-2">
+                  <span class="mdi mdi-check text-lg text-blue-400"></span>
+                  <span class="text-md">English</span>
                 </div>
               </li>
             </ul>
