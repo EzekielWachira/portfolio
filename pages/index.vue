@@ -36,11 +36,11 @@
         <div class="flex justify-center space-x-2 mt-5 p-3">
           <button class="px-3 py-2 align-center flex rounded space-x-2 bg-green-400 text-white">
             <span class="text-md my-auto">Hire me</span>
-            <span class="mdi mdi-emoticon-happy-outline text-2xl"></span>
+            <span class="mdi mdi-emoticon-happy-outline text-2xl" />
           </button>
           <button class="px-3 py-2 align-center flex rounded space-x-2 bg-gray-600 text-white">
             <span class="text-md my-auto">Download CV</span>
-            <span class="mdi mdi-file-download-outline text-2xl"></span>
+            <span class="mdi mdi-file-download-outline text-2xl" />
           </button>
         </div>
       </div>

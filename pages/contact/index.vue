@@ -6,13 +6,13 @@
       </div>
     </div>
     <form class="mt-5 flex flex-col h-auto justify-center pb-2 w-1/2 w:sm-full">
-      <input type="text" placeholder="name" class="border-2 bg-gray-900 focus:bg-gray-900 focus:outline-none text-white border-gray-500  py-3 px-2 rounded mt-3" />
-      <input type="email" placeholder="email" class="border-2  bg-gray-900 focus:bg-gray-900 focus:outline-none text-white border-gray-500 py-3 px-2 rounded mt-3" />
-      <textarea cols="10" rows="5" placeholder="Your message" class="mt-2  bg-gray-900 focus:bg-gray-900 focus:outline-none text-white border-gray-500 border-2 py-2 px-5 rounded"/>
+      <input type="text" placeholder="name" class="border-2 bg-gray-900 focus:bg-gray-900 focus:outline-none text-white border-gray-500  py-3 px-2 rounded mt-3"></input>
+      <input type="email" placeholder="email" class="border-2  bg-gray-900 focus:bg-gray-900 focus:outline-none text-white border-gray-500 py-3 px-2 rounded mt-3"></input>
+      <textarea cols="10" rows="5" placeholder="Your message" class="mt-2  bg-gray-900 focus:bg-gray-900 focus:outline-none text-white border-gray-500 border-2 py-2 px-5 rounded" />
       <div>
         <button class="border-green-500 space-x-2 border-2 text-white text-xl rounded px-5 py-2 mt-5 w-auto content-center flex flex-row justify-evenly hover:bg-green-500" type="submit">
           <span>Send message</span>
-          <span class="mdi mdi-send-outline text-green-200 text-2xl"/>
+          <span class="mdi mdi-send-outline text-green-200 text-2xl" />
         </button>
       </div>
     </form>

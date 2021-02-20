@@ -6,10 +6,15 @@
         <span class="font-semibold text-green-400 text-MD pl-4">ASSOCIATE ANDROID DEVELOPER</span>
         <span class="font-semibold text-gray-400 text-MD pl-4">SOFTWARE ENGINEER</span>
       </div>
-      <div class="border-l-8 border-green-400 pl-2 font-semibold text-lg mt-5 text-gray-300">WHO I AM</div>
+      <div class="border-l-8 border-green-400 pl-2 font-semibold text-lg mt-5 text-gray-300">
+        WHO I AM
+      </div>
       <div class="mt-3">
-        <article class="text-md text-gray-500 leading-7 font-semibold about">I'm a software engineer specializing with Android Development using both Java and Kotlin, Full-Stack developer</article>
-        <article class=" text-gray-500 leading-7 font-semibold about">As a passionate software engineer. I have been working as a web developer developing
+        <article class="text-md text-gray-500 leading-7 font-semibold about">
+          I'm a software engineer specializing with Android Development using both Java and Kotlin, Full-Stack developer
+        </article>
+        <article class=" text-gray-500 leading-7 font-semibold about">
+          As a passionate software engineer. I have been working as a web developer developing
           projects with Laravel framework, Vue JS, Nuxt JS and Typescript, Android projects with Java
           and Kotlin.
           Proficient in utilizing a wide variety of programs and tools to provide high quality and cost -
@@ -17,14 +22,20 @@
           Possess unmatched coding and testing skills to deliver high quality systems.
         </article>
       </div>
-      <div class="border-l-8 border-green-400 pl-2 font-semibold text-lg mt-5 text-gray-300">MY CERTIFICATIONS</div>
+      <div class="border-l-8 border-green-400 pl-2 font-semibold text-lg mt-5 text-gray-300">
+        MY CERTIFICATIONS
+      </div>
       <div class="flex flex-row">
         <div class="shadow-lg text-center bg-gray-800 rounded border-green-400 border-2 w-4/12 px-5 py-2 card pl-2 font-semibold text-lg mt-5 text-gray-300">
           <span class="underline">ASSOCIATE ANDROID DEVELOPER</span>
-          <article class="font font-medium">Google certified android developer</article>
+          <article class="font font-medium">
+            Google certified android developer
+          </article>
         </div>
       </div>
-      <div class="border-l-8 border-green-400 pl-2 font-semibold text-lg mt-5 text-gray-300">TESTIMONIALS</div>
+      <div class="border-l-8 border-green-400 pl-2 font-semibold text-lg mt-5 text-gray-300">
+        TESTIMONIALS
+      </div>
       <div class="flex flex-row space-x-2 testimonials">
         <div class="shadow-lg text-center bg-gray-800 rounded border-green-400 border-2 w-4/12 px-5 py-2 card pl-2  text-lg mt-5 text-gray-300 testimonial">
           <span class="underline font-semibold">John Doe</span>
